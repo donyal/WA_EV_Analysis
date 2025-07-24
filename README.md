@@ -1,4 +1,4 @@
-# README
+# EV Adoption Analysis in Washington State
 
 ## Overview
 This project analyzes electric vehicle (EV) registration data to understand adoption trends, geographic growth, and market preferences in Washington State. The goal is to provide actionable insights for businesses, policymakers, and infrastructure planners.
