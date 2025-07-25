@@ -3,9 +3,18 @@
 ## Overview
 This project analyzes electric vehicle (EV) registration data to understand adoption trends, geographic growth, and market preferences in Washington State. The goal is to provide actionable insights for businesses, policymakers, and infrastructure planners.
 
+## Leading Counties by EV Registrations
+
+The chart below highlights the top 10 counties in Washington State with the highest electric vehicle (EV) registrations. King, Pierce, and Snohomish make up the top three.
+
 <p align="center">
   <img src="top10-counties.png" alt="Top 10 Counties" width="800"/>
 </p>
+
+## Leading EV Market Brands in Washington
+
+This chart shows the distribution of the top five automotive brands in Washington’s EV market; Volvo, BMW, Chevrolet, Ford, and Tesla.
+
 <p align="center">
   <img src="top5-market-brand.png" alt="Top 5 Market Brand" width="600"/>
 </p>
