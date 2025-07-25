@@ -3,6 +3,13 @@
 ## Overview
 This project analyzes electric vehicle (EV) registration data to understand adoption trends, geographic growth, and market preferences in Washington State. The goal is to provide actionable insights for businesses, policymakers, and infrastructure planners.
 
+<p align="center">
+  <img src="top10-counties.png" alt="Top 10 Counties" width="800"/>
+</p>
+<p align="center">
+  <img src="top5-market-brand.png" alt="Top 5 Market Brand" width="600"/>
+</p>
+
 ## Key Insights
 
 ### 1. **Rapid Growth in EV Adoption**
