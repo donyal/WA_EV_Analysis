@@ -13,15 +13,15 @@ This project analyzes electric vehicle (EV) registration data to understand adop
 ## Key Insights
 
 ### 1. **Rapid Growth in EV Adoption**
-- EV registrations have increased sharply in recent years, with the most significant growth seen in the last two model years.
+- EV registrations have increased sharply in recent years with the most significant growth seen in the last two model years.
 - The upward trend suggests increasing consumer confidence and policy support for EVs.
 
 ### 2. **Regional Hotspots**
-- Counties such as King, Pierce, and Snohomish lead in EV registrations, indicating higher market readiness and infrastructure needs.
-- Some rural counties show emerging adoption, presenting new opportunities for expansion.
+- Counties such as King, Pierce, and Snohomish lead in EV registrations which indicate higher market readiness and infrastructure needs.
+- Some rural counties show emerging adoption that present new opportunities for expansion.
 
 ### 3. **Brand and Type Preferences**
-- Tesla, Nissan, and Chevrolet dominate the registrations, with Battery Electric Vehicles (BEVs) being the most common type.
+- Tesla, Nissan, and Chevrolet dominate the registrations with Battery Electric Vehicles (BEVs) being the most common type.
 - Plug-in Hybrid registrations are present but represent a smaller market share.
 
 ### 4. **Market Segmentation**
